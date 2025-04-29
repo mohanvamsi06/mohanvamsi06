@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mohan Vamsi!<br><br>
+# 👋 Hi, I’m Mohana Vamsi!<br><br>
 ## 🔐 Cybersecurity Enthusiast | 💻 Full Stack Developer <br><br>I design secure full-stack applications and dive deep into breaking and building systems. I enjoy combining offensive security with clean backend engineering.<br><br> Active in Competitive Programming and problem-solving  <br><br>Let’s connect and hack/build something awesome!
 
 
