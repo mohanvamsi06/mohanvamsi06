@@ -1,8 +1,9 @@
 # 👋 Hi, I’m Mohan Vamsi!<br><br>
-## 🔐 Cybersecurity Enthusiast | 💻 Full Stack Developer <br><br>I design secure full-stack applications and dive deep into breaking and building systems. I enjoy combining offensive security with clean backend engineering.<br><br> Active in Competitive Programming and problem-solving  <br><br>Let’s connect and hack/build something awesome! <br><br> Do check out my [Portfolio](https://vamsiportfolio-y1t8.onrender.com/)
+## 🔐 Cybersecurity Enthusiast | 💻 Full Stack Developer <br><br>I design secure full-stack applications and dive deep into breaking and building systems. I enjoy combining offensive security with clean backend engineering.<br><br> Active in Competitive Programming and problem-solving  <br><br>Let’s connect and hack/build something awesome!
 
 
 ## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge)](https://vamsiportfolio-y1t8.onrender.com/)   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohana-vamsi-sowdepally-46871a26b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smohanvamsi9@gmail.com) 
 
 # 💻 Tech Stack:
