@@ -11,13 +11,13 @@
 # 📊 GitHub Stats:
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=mohanvamsi06&theme=dark&hide_border=false&include_all_commits=true&count_private=true&v=1" alt="GitHub Stats" /></td>
-    <td><img src="https://nirzak-streak-stats.vercel.app/?user=mohanvamsi06&theme=dark&hide_border=false&v=1" alt="GitHub Streak" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=mohanvamsi06&theme=dark&hide_border=false&include_all_commits=true&count_private=true?v=1" alt="GitHub Stats" /></td>
+    <td><img src="https://nirzak-streak-stats.vercel.app/?user=mohanvamsi06&theme=dark&hide_border=false?v=1" alt="GitHub Streak" /></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanvamsi06&theme=dark&hide_border=false&layout=compact&langs_count=8&v=1" alt="Top Languages" /></td>
+    <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanvamsi06&theme=dark&hide_border=false&layout=compact&langs_count=8?v=1" alt="Top Languages" /></td>
   </tr>
 </table>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mohanvamsi06&theme=radical&no-frame=false&no-bg=true&margin-w=4&v=1)
+![](https://github-profile-trophy.vercel.app/?username=mohanvamsi06&theme=radical&no-frame=false&no-bg=true&margin-w=4?v=1)
